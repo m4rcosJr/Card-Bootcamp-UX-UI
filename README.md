@@ -77,15 +77,6 @@ Principais recursos utilizados:
 
 O layout foi desenvolvido pensando em **boa adaptação para diferentes tamanhos de tela**, mantendo a legibilidade e a organização dos elementos.
 
----
-
-## 📷 Prévia do projeto
-
-Wireframe
-Protótipo
-Card final desenvolvido em HTML e CSS
-
-*(As imagens do projeto podem ser adicionadas nesta seção.)*
 
 ---
 
