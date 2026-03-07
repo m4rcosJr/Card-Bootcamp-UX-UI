@@ -1,2 +1,8 @@
-# Card-Bootcamp-UX-UI
-Projeto desenvolvido para a atividade prática "Do Figma ao Código". O objetivo foi criar um card de matrícula otimizado para conversão, passando pelas etapas de wireframe, protótipo de alta fidelidade no Figma e implementação utilizando HTML5 e CSS3. O projeto aplica conceitos de UX/UI Design, responsividade, semântica HTML e estilização com CSS.
+# Card de Matrícula – Do Figma ao Código
+
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido como parte da atividade prática **“Do Figma ao Código – Card de Conversão”**.
+O objetivo foi criar um **card de matrícula para cursos online**, passando pelas etapas de **Wireframe, Protótipo de Alta Fidelidade e Desenvolvimento Front-end**.
+
+O projeto aplica conceitos de **UX/UI Design**, **hierarquia visual**, **responsividade** e **boas práticas de desenvolvimento web** utilizando **HTML**
