@@ -4,32 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Bootcamp UX/UI</title>
-    <link rel="stylesheet" type = "text/CSS "href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body> 
 
-    <main class="container">
+    <main>
 
         <article class="card">
 
             <img src="foto_curso.png" alt="Curso de Front-end e UX">
 
+            <div class="card-content">
+
             <span class="tag">Bootcamp Intensivo</span>
 
             <h2>Desenvolvimento Front-end & UX</h2>
 
-            <p class="descricao">Do design no Figma ao código responsivo: aprenda a criar interfaces modernas, funcionais e prontas para o mercado em apenas 8 semanas.</p>
+            <p class="descricao">Do design no Figma ao código responsivo: Aprenda a criar interfaces modernas, funcionais e prontas para o mercado em apenas 8 semanas.</p>
 
             <div class="preco">
-                <span class="valor">R$ 349,90</span> 
-                <span class="pareclado">à vista ou  5x sem juros.</span> 
-            </div>   
+                <span class="valor">R$ 349,90</span>
+                <span class="parcelado">à vista ou 5x sem juros</span>
+            </div>
 
             <button>Garantir Minha Vaga</button>
 
+            </div>
+
         </article>
 
-</main>
+    </main>
 
     
 </body>
